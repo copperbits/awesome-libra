@@ -29,7 +29,7 @@ A curated list of awesome libra ecosystem.
 ## Useful links
 ### Community
 - [Facebook Libra Coin developer talks](https://t.me/LibraCoinDev) - Telegram Group 
-- [FAQ about Libra Blockchain](https://github.com/copperbits/awesome-libra/wiki/FAQ) - FAQ on GitHub wiki
+- [FAQ about Libra Blockchain](https://github.com/copperbits/awesome-libra/wiki/FAQ-about-Libra-Blockchain) - FAQ on GitHub wiki
 
 ### Articles
 - [Facebook’s cryptocurrency is a centralized wolf in decentralized sheep’s clothing](https://qz.com/1649526/facebook-is-begging-us-to-trust-libra-but-should-we/) by Joe Lubin, June 21, 2019
