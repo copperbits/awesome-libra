@@ -12,7 +12,6 @@ A curated list of awesome libra ecosystem.
 - [Useful links](#useful-links)
   - [Community](#community)
   - [Articles](#articles)
-  - [Other](#other)
 - [Current Problems](#current-problems)
 - [Contribute](#contribute)
 - [License](#license)
