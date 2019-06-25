@@ -13,6 +13,7 @@ A curated list of awesome libra ecosystem.
   - [Community](#community)
   - [Articles](#articles)
 - [Current Problems](#current-problems)
+- [Awesome Lists](#awesome-lists)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -32,9 +33,9 @@ A curated list of awesome libra ecosystem.
 - [FAQ about Libra Blockchain](https://github.com/copperbits/awesome-libra/wiki/FAQ-about-Libra-Blockchain) - FAQ on GitHub wiki
 
 ### Articles
-- [Facebook’s proposed currency is technically sound, but should you trust it?](https://medium.com/dapperlabs/dapper-labs-cto-reviews-libra-s-white-paper-656638778100) - by Dapper Labs, JUNE 21, 2019
+- [Facebook’s proposed currency is technically sound, but should you trust it?](https://medium.com/dapperlabs/dapper-labs-cto-reviews-libra-s-white-paper-656638778100) by Dapper Labs, June 21, 2019
 - [Facebook’s cryptocurrency is a centralized wolf in decentralized sheep’s clothing](https://qz.com/1649526/facebook-is-begging-us-to-trust-libra-but-should-we/) by Joe Lubin, June 21, 2019
-- [A technical perspective on Facebook’s LibraBFT Consensus algorithm](https://www.theblockcrypto.com/2019/06/19/a-technical-perspective-on-facebooks-librabft-consensus-algorithm/?fbclid=IwAR2W00G6kEg7QJQdRNC806mFrSxAZxUJHb9qa8pi1eRZEzXo1nHFz6_OgiE) - by Contributor Network, JUNE 19, 2019
+- [A technical perspective on Facebook’s LibraBFT Consensus algorithm](https://www.theblockcrypto.com/2019/06/19/a-technical-perspective-on-facebooks-librabft-consensus-algorithm/?fbclid=IwAR2W00G6kEg7QJQdRNC806mFrSxAZxUJHb9qa8pi1eRZEzXo1nHFz6_OgiE) by Contributor Network, June 19, 2019
 - [First Look: Libra](https://info.binance.com/en/research/marketresearch/libra.html) by Binance Research, June 18th 2019
 - [A short thread on HotStuff vs Tendermint for Libra](https://twitter.com/alexskidanov/status/1141040292767789056) by Alex Skidanov, June 18th 2019
 
@@ -48,6 +49,9 @@ Also, Facebook representatives are negotiating with the commodity futures tradin
 Moreover, the UK has already expressed concern about Facebook's transition to the financial sector. Currently, the social network is involved in a new investigation related to the analytical firm called Cambridge Analytica and data hacking of 50 million Facebook users. A possible fine could be $ 5 billion.
 
 Finally, immediately after the launch, it became known that in order to purchase a coin, you need to register and specify your passport data there. The society was furious as it is definitely not the way of the decentralization and anonymity.
+
+## Awesome Lists
+- [Awesome Libra (and Move)](https://github.com/openblockchains/awesome-libra) by OpenBlockchains
 
 ## Contribute
 
