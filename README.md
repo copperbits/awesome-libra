@@ -16,7 +16,7 @@ A curated list of awesome libra ecosystem.
   - [Articles](#articles)
     - [English](#english)
     - [Russian](#russian)
-  - [Interesting Tweets](#interesting-tweets)
+  - [Tweets](#tweets)
     - [English](#english)
 - [Awesome Lists](#awesome-lists)
 - [Contribute](#contribute)
@@ -57,7 +57,7 @@ A curated list of awesome libra ecosystem.
 - [Часть 1. Идеологическая.](https://www.facebook.com/alina.aseeva.3/posts/3261817820498902) by Alina Aisay, June 25th 2019
 - [Что такое Либра от фейсбук](https://www.facebook.com/photo.php?fbid=10217115548355124&set=a.4195399017538&type=3&theater) by Vitaliy Bulychov, June 18th 2019
 
-### Interesting Tweets
+### Tweets
 #### English
 - [Libra: Politically Correct Review](https://serokell.io/blog/libra-review) by Gints Dreimanis, June 21, 2019
 - [First worldwide live minting of Libra tokens](https://twitter.com/bneiluj/status/1141290711725330434)by Julien Bouteloup, June 19th 2019
