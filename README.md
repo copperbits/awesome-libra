@@ -12,7 +12,9 @@ A curated list of awesome libra ecosystem.
 - [Useful links](#useful-links)
   - [Community](#community)
   - [Articles](#articles)
-- [Current Problems](#current-problems)
+  - [Interesting Posts and Tweets](#interesting-posts-and-tweets)
+    - [English](#english)
+    - [Russian](#russian)
 - [Awesome Lists](#awesome-lists)
 - [Contribute](#contribute)
 - [License](#license)
@@ -30,25 +32,25 @@ A curated list of awesome libra ecosystem.
 ## Useful links
 ### Community
 - [Facebook Libra Coin developer talks](https://t.me/LibraCoinDev) - Telegram Group 
-- [FAQ about Libra Blockchain](https://github.com/copperbits/awesome-libra/wiki/FAQ-about-Libra-Blockchain) - FAQ on GitHub wiki
+- [FAQ Libra](https://github.com/copperbits/awesome-libra/wiki/FAQ-Libra) - FAQ on GitHub wiki
 
 ### Articles
 - [Facebook’s proposed currency is technically sound, but should you trust it?](https://medium.com/dapperlabs/dapper-labs-cto-reviews-libra-s-white-paper-656638778100) by Dapper Labs, June 21, 2019
 - [Facebook’s cryptocurrency is a centralized wolf in decentralized sheep’s clothing](https://qz.com/1649526/facebook-is-begging-us-to-trust-libra-but-should-we/) by Joe Lubin, June 21, 2019
 - [A technical perspective on Facebook’s LibraBFT Consensus algorithm](https://www.theblockcrypto.com/2019/06/19/a-technical-perspective-on-facebooks-librabft-consensus-algorithm/?fbclid=IwAR2W00G6kEg7QJQdRNC806mFrSxAZxUJHb9qa8pi1eRZEzXo1nHFz6_OgiE) by Contributor Network, June 19, 2019
 - [First Look: Libra](https://info.binance.com/en/research/marketresearch/libra.html) by Binance Research, June 18th 2019
+
+
+### Interesting Posts and Tweets
+#### English
+- [First worldwide live minting of Libra tokens](https://twitter.com/bneiluj/status/1141290711725330434)by Julien Bouteloup, June 19th 2019
+- [The @Libra_ release looks really amazing](https://twitter.com/buchmanster/status/1140993066016358400) by Ethan Buchman, June 18th 2019
 - [A short thread on HotStuff vs Tendermint for Libra](https://twitter.com/alexskidanov/status/1141040292767789056) by Alex Skidanov, June 18th 2019
 
+#### Russian
+- [Часть 1. Идеологическая.](https://www.facebook.com/alina.aseeva.3/posts/3261817820498902) by Alina Aisay, June 25th 2019
+- [Что такое Либра от фейсбук](https://www.facebook.com/photo.php?fbid=10217115548355124&set=a.4195399017538&type=3&theater) by Vitaliy Bulychov, June 18th 2019
 
-## Current Problems
-
-Regulators in countries where there are no clear rules for working with cryptocurrencies can stand on the way of launching Libra. In may 2019, the USA Senate Banking Committee wrote an open letter to Facebook, demanding to disclose the details of the project. Senators are interested in how the company will process users' personal data.
-
-Also, Facebook representatives are negotiating with the commodity futures trading Commission to determine whether the cryptocurrency falls under jurisdiction. Also, late in the evening on the 18th of June 2019, the USA authorities asked Facebook to stop the development of the Libra cryptocurrency.
-
-Moreover, the UK has already expressed concern about Facebook's transition to the financial sector. Currently, the social network is involved in a new investigation related to the analytical firm called Cambridge Analytica and data hacking of 50 million Facebook users. A possible fine could be $ 5 billion.
-
-Finally, immediately after the launch, it became known that in order to purchase a coin, you need to register and specify your passport data there. The society was furious as it is definitely not the way of the decentralization and anonymity.
 
 ## Awesome Lists
 - [Awesome Libra (and Move)](https://github.com/openblockchains/awesome-libra) by OpenBlockchains
